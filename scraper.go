@@ -172,7 +172,7 @@ func getUserInputs() (string, string, bool, error) {
 	}
 
 	// Prompt the user to decide whether to use a proxy
-	fmt.Println("🌐 Use proxy? (yes, press Enter to skip): ")
+	fmt.Print("🌐 Use proxy? (yes, press Enter to skip): ")
 	useProxyInput, err := reader.ReadString('\n')
 	if err != nil {
 		fmt.Println("Error reading input:", err)
@@ -180,6 +180,7 @@ func getUserInputs() (string, string, bool, error) {
 	}
 	useProxyInput = strings.TrimSpace(useProxyInput) // Trim any extra spaces or newline characters
 	useProxy := strings.ToLower(useProxyInput) == "yes"
+	fmt.Println()
 
 	return url, prompt, useProxy, nil
 
@@ -229,7 +230,7 @@ func setProxy(c *colly.Collector) error {
 // sendToOpenAI sends the scraped content to OpenAI and returns the response
 func sendToOpenAI(scrapedContent ScrapedPage) (string, error) {
 	apiKey := goDotEnvVariable("OPENAI_API_KEY")
-	apiURL := goDotEnvVariable("OPENAI_API_URL")
+	apiURL := "https://api.openai.com/v1/chat/completions"
 
 	// Define the request payload
 	payload := map[string]interface{}{
