@@ -1,0 +1,58 @@
+{
+  "job_title": "Senior Software Engineer",
+  "description": "As a Senior Full Stack Software Engineer, you will be a key member of a full stack, cross-functional engineering team. You will partner with Engineering leaders, Design, Product, QA, and business teams to build and deliver high-quality, scalable, and flexible software solutions. You'll have the ability to mentor more junior to mid level engineers.",
+  "responsibilities": [
+    "Partner with Product, UX, QA, and Engineering teams to create high quality software",
+    "Be a hands-on part of a multidisciplinary team to build next-generation software products and solutions",
+    "Be accountable for delivering and supporting applications in a production environment",
+    "Build front-end websites using Client and Server side rendering technologies",
+    "Build back-end microservices with well-defined APIs",
+    "Mentor other engineers, champion team needs, and get involved with strategic decisions"
+  ],
+  "requirements": [
+    "Professional experience working within software engineering teams",
+    "5+ years of relevant production work experience in full-stack web development Preferably using Node.js/Typescript and React",
+    "Track record of success in terms of ability to execute projects",
+    "Experience breaking product requirements into manageable engineering tasks and working with a team to complete them",
+    "A willingness to take abstract business needs and problems, and work with product and engineering peers to determine tasks",
+    "A willingness to champion team needs and get involved with strategic decisions.",
+    "Strong experience with API technologies",
+    "Strong experience with RDBMs technologies",
+    "Experience working with AWS",
+    "Experience with high traffic web applications",
+    "Understanding of system design, data structures, and algorithms, and experience creating and evaluating technical design documents",
+    "BS/MS in Computer Science/Engineering",
+    "Willingness to work EST hours"
+  ],
+  "nice_to_have": [
+    "Experience working with full stack engineering teams that support a vertical slice of the product",
+    "Familiarity with best practices of SRE (e.g. SLOs, KPIs, postmortems, incident management, toil reduction, etc.)",
+    "Understanding of Agile (preferable Scrum), and a willingness to pivot and define software development processes",
+    "Experience owning technical roadmaps and initiatives, and leading cross-team guilds"
+  ],
+  "benefits": [
+    "Opportunities to make an impact within a fast-growing company",
+    "Medical, dental, & vision insurance, beginning day one",
+    "Health savings account with employer contribution",
+    "Generous PTO and paid holidays",
+    "Flexible working hours",
+    "401(k)",
+    "Paid parental leave",
+    "Company sponsored short and long term disability",
+    "Flexible spending accounts (healthcare, dependent care, commuter)",
+    "Competitive salary"
+  ],
+  "base_salary": "$140,000 - $165,000 annually",
+  "additional_info": {
+    "link_stay_in_touch": "https://ats.rippling.com/theguarantors-open-positions/jobs/9125f0e7-d716-4e8e-adbe-5b5d7b634f92",
+    "equal_opportunity": "TheGuarantors is an Equal Opportunity Employer. We celebrate diversity and are committed to an inclusive environment for all.",
+    "location": "New York, NY",
+    "technology_used": "New York, NY",
+    "links": {
+      "terms_of_service": "https://app.rippling.com/legal/user",
+      "privacy_policy": "https://app.rippling.com/legal/privacy",
+      "cookies": "https://app.rippling.com/legal/cookie-notice",
+      "powered_by_rippling": "https://www.rippling.com"
+    }
+  }
+}
